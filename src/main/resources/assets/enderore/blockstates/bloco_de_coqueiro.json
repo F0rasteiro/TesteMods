@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "enderore:block/bloco_de_coqueiro",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "enderore:block/bloco_de_coqueiro"
+    },
+    "axis=z": {
+      "model": "enderore:block/bloco_de_coqueiro",
+      "x": 90
+    }
+  }
+}

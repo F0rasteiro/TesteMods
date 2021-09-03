@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "enderore:blocks/muda_de_coqueiro",
+    "particle": "enderore:blocks/muda_de_coqueiro"
+  }
+}

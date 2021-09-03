@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderore:blocks/coqueiro_log_baixo_cima",
+    "up": "enderore:blocks/coqueiro_log_baixo_cima",
+    "north": "enderore:blocks/coqueiro_log",
+    "east": "enderore:blocks/coqueiro_log",
+    "south": "enderore:blocks/coqueiro_log",
+    "west": "enderore:blocks/coqueiro_log",
+    "particle": "enderore:blocks/coqueiro_log_baixo_cima"
+  }
+}
